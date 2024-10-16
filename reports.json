@@ -42,12 +42,12 @@
     "secret": false
   },
   {
-    description:
+    "description":
       "Path (Sankey) chart illustrating student flow in/out of degree programs",
-    link: "https://irserver2.eku.edu/Reports/ir/programchangesankey/",
-    image: "/images/programchangesankey.svg",
-    title: "Program Path Chart",
-    secret: true,
+    "link": "https://irserver2.eku.edu/Reports/ir/programchangesankey/",
+    "image": "/images/programchangesankey.svg",
+    "title": "Program Path Chart",
+    "secret": true
   },
   {
     "description": "Interact with a Colorful Heatmap of KY Counties Fall 2024 Enrollment",
@@ -113,12 +113,12 @@
     "secret": true
   },
   {
-    description:
+    "description":
       "Analyze a Breakdown of the Various Tuition Waivers Employees Receive",
-    link: "https://irserver2.eku.edu/reports/employee-tuition-waivers/",
-    image: "/images/waivers.png",
-    title: "Employee Tuition Waivers",
-    secret: true,
+    "link": "https://irserver2.eku.edu/reports/employee-tuition-waivers/",
+    "image": "/images/waivers.png",
+    "title": "Employee Tuition Waivers",
+    "secret": true
   },
   {
     "description": "Compare Annual Campaign Report, Contribution Source Report, Eastern Fund, Board Participation, Endowment Market Performance, & Foundation Scholarships",
@@ -163,11 +163,11 @@
     "secret": true
   },
   {
-    description: "View a Comparison of Predicted Retention to Actual Retention",
-    link: "https://www.irserver2.eku.edu/Reports/IR/RetentionPrediction/index.html",
-    image: "/images/retentionprediction.png",
-    title: "Retention Prediction",
-    secret: true,
+    "description": "View a Comparison of Predicted Retention to Actual Retention",
+    "link": "https://www.irserver2.eku.edu/Reports/IR/RetentionPrediction/index.html",
+    "image": "/images/retentionprediction.png",
+    "title": "Retention Prediction",
+    "secret": true
   },
   {
     "description": "Compare DFW Rate & Grade Distribution of Varying Groups",
