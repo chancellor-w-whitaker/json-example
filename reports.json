@@ -7,6 +7,20 @@
     "secret": false
   },
   {
+    "description": "Compare Annual Enrollment & Credit Hour Statistics of EKU Online Programs",
+    "link": "https://irserver.eku.edu/ekuonline/",
+    "image": "/images/eku-online.svg",
+    "title": "EKU Online",
+    "secret": false
+  },
+  {
+    "description": "President's Council Dashboard",
+    "link": "https://irserver.eku.edu/pc/",
+    "image": "/images/pc-dashboard.svg",
+    "title": "PC Dashboard",
+    "secret": true
+  },
+  {
     "link": "https://form.asana.com/?k=V3l3wViQWRhfjob8Y5iAbQ&d=978674317228910",
     "description": "University Data Requests",
     "image": "/images/request-form.svg",
@@ -35,8 +49,7 @@
     "secret": false
   },
   {
-    "description":
-      "Path (Sankey) chart illustrating student flow in/out of degree programs",
+    "description": "Path (Sankey) chart illustrating student flow in/out of degree programs",
     "link": "https://irserver2.eku.edu/Reports/ir/programchangesankey/",
     "image": "/images/programchangesankey.svg",
     "title": "Program Path Chart",
@@ -106,8 +119,7 @@
     "secret": true
   },
   {
-    "description":
-      "Analyze a Breakdown of the Various Tuition Waivers Employees Receive",
+    "description": "Analyze a Breakdown of the Various Tuition Waivers Employees Receive",
     "link": "https://irserver2.eku.edu/reports/employee-tuition-waivers/",
     "image": "/images/waivers.png",
     "title": "Employee Tuition Waivers",
