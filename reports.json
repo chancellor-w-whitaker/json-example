@@ -42,6 +42,13 @@
     "secret": false
   },
   {
+    "link": "https://www.irserver2.eku.edu/reports/program-sunburst/",
+    "description": "Diagram showing which Graduate Programs Students Moved Into After Completing Undergraduate Programs",
+    "image": "/images/sunburst.svg",
+    "title": "Undergrad to Grad Sunburst Chart",
+    "secret": false
+  },
+  {
     "description": "View and Interact with a Statistical Report of EKU Spring 2024 Graduates",
     "link": "https://ir.eku.edu/spring-graduation-2024",
     "image": "/images/spring-graduation-2024.png",
