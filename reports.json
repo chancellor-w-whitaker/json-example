@@ -92,7 +92,7 @@
   },
   {
     "description": "Compare Annual Number of Full-Time & Part-Time Faculty, Full-Time & Part-Time Staff, & Part-Time Students",
-    "link": "https://www.irserver2.eku.edu/reports/employeedata/",
+    "link": "https://irserver.eku.edu/REPORTS/pc/facultystaff/",
     "image": "/images/facultystaff.png",
     "title": "Full-Time Faculty & Staff",
     "secret": true
